@@ -26,16 +26,16 @@ Rollimage[8] = new Image(250,100);
 Rollimage[8].src = "specsel.jpg";
 
 Rollimage[9] = new Image(700,300);
-Rollimage[9].src = "FrogDiversityPic.jpg";
+Rollimage[9].src = "c.jpg";
 
 Rollimage[10] = new Image(700,300);
-Rollimage[10].src = "Main.jpg";
+Rollimage[10].src = "main.jpg";
 
 Rollimage[11] = new Image(700,300);
-Rollimage[11].src = "SpecDiversity.jpg";
+Rollimage[11].src = "a.jpg";
 
 Rollimage[12] = new Image(700,300);
-Rollimage[12].src = "BirdDiversity.jpg";
+Rollimage[12].src = "b.jpg";
 
  function SwapOutAbout(){
     document.about.src = Rollimage[2].src;
